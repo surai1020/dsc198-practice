@@ -7,4 +7,4 @@
 
 \f0\fs24 \cf0 README\
 \
-Hello, this is my dsc 198 practice}
+Helloooooooooo! This is my dsc 198 practice}
